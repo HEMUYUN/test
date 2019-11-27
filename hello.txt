@@ -1,0 +1,2 @@
+git was installed 
+git is a free software
