@@ -1,2 +1,3 @@
-git was installed 
+git was installed finally!
 git is a free software
+big enough
